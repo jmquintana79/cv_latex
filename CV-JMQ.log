@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.26)  21 MAR 2016 17:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.26)  21 MAR 2016 18:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -827,20 +827,16 @@ LaTeX Font Info:    Try loading font information for U+mvs on input line 123.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/marvosym/umvs.fd)
 Package epstopdf Info: Source file: <img/cv-photo_low_quality.eps>
-(epstopdf)                    date: 2016-03-21 16:25:09
+(epstopdf)                    date: 2016-03-21 18:24:01
 (epstopdf)                    size: 1351838 bytes
 (epstopdf)             Output file: <img/cv-photo_low_quality-eps-converted-to.
 pdf>
+(epstopdf)                    date: 2016-03-21 18:24:01
+(epstopdf)                    size: 57122 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/cv-photo_low_quality-e
 ps-converted-to.pdf img/cv-photo_low_quality.eps>
 (epstopdf)             \includegraphics on input line 133.
-runsystem(repstopdf --outfile=img/cv-photo_low_quality-eps-converted-to.pdf img
-/cv-photo_low_quality.eps)...executed safely (allowed).
-
-Package epstopdf Info: Result file: <img/cv-photo_low_quality-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2016-03-21 17:45:37
-(epstopdf)                    size: 57122 bytes.
+Package epstopdf Info: Output file is already uptodate.
 
 <img/cv-photo_low_quality-eps-converted-to.pdf, id=1, 99.37125pt x 127.47626pt>
 File: img/cv-photo_low_quality-eps-converted-to.pdf Graphic file (type pdf)
