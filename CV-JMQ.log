@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.3.5)  5 MAR 2017 19:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.3.5)  21 MAR 2017 00:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -967,11 +967,11 @@ x/updmap/pdftex.map} <./img/cv-photo_low_quality-eps-converted-to.pdf>]
 Here is how much of TeX's memory you used:
  10911 strings out of 494447
  185224 string characters out of 6166767
- 247446 words of memory out of 5000000
+ 246445 words of memory out of 5000000
  14062 multiletter control sequences out of 15000+600000
  41494 words of font info for 37 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 37i,11n,43p,384b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,11n,43p,384b,333s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016basic/texmf-dist/fonts/enc/dvip
 s/tex-gyre/q-ec.enc} </Users/jmq/Library/texlive/2016basic/texmf-var/fonts/pk/l
 jfour/public/ifsym/ifsym10.540pk>{/usr/local/texlive/2016basic/texmf-dist/fonts
@@ -982,7 +982,7 @@ blic/marvosym/marvosym.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1
 /public/tex-gyre/qplb.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/
 public/tex-gyre/qplr.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/p
 ublic/tex-gyre/qplri.pfb>
-Output written on CV-JMQ.pdf (3 pages, 192932 bytes).
+Output written on CV-JMQ.pdf (3 pages, 192976 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream
